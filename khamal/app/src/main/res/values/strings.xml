@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daftar Teman</string>
+    <string-array name="jabatan_spinner">
+        <item>Manager</item>
+        <item>Supervisor</item>
+        <item>Staff</item>
+    </string-array>
+</resources>
